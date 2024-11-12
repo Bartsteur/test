@@ -1,0 +1,22 @@
+[
+  {
+    "os": "windows",
+    "status": "healthy",
+    "value": 60
+  },
+  {
+    "os": "windows",
+    "status": "unhealthy",
+    "value": 1
+  },
+  {
+    "os": "linux",
+    "status": "healthy",
+    "value": 15
+  },
+  {
+    "os": "linux",
+    "status": "unhealthy",
+    "value": 1
+  }
+]
