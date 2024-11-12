@@ -1,0 +1,7 @@
+[
+  {
+    "os": "windows",
+    "healthy": 60,
+    "unhealthy": 100
+  }
+]
