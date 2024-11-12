@@ -1,7 +1,7 @@
 [
   {
     "os": "windows",
-    "healthy": 55,
-    "unhealthy": 5
+    "healthy": 52,
+    "unhealthy": 25
   }
 ]
